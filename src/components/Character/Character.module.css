@@ -6,3 +6,10 @@
   top: 128px;
   left: calc((1024px/(100/65)) + ((100% - 1024px)/2) - 96px);
 }
+
+@media (max-width: 768px) {
+ .character {
+  left: 10px;
+  top: 16px;
+ } 
+}
