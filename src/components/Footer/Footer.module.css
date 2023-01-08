@@ -6,3 +6,8 @@
   text-align: center;
 }
 
+.footer_link:link,
+.footer_link:visited {
+  color: white;
+}
+
